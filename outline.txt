@@ -1,0 +1,8 @@
+Test 4: main.cpp (line 189)
+	Create a relation with tuples valued 0 to 100000 in forward order and perform index tests on attributes of int type
+
+Test 5: main.cpp (line 201)
+	Create a relation with tuples valued 0 to 100000 in reverse order and perform index tests on attributes of int type
+
+Test 6: main.cpp (line 213)
+	Create a relation with tuples valued 0 to 100000 in random order and perform index tests on attributes of int type
